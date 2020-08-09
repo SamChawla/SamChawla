@@ -1,4 +1,4 @@
-(https://github-readme-stats.vercel.app/api?username=samchawla&show_icons=true&theme=tokyonight)
+![My Readme Stats](https://github-readme-stats.vercel.app/api?username=samchawla&show_icons=true&theme=tokyonight)
 
 <!--
 **SamChawla/SamChawla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
