@@ -1,5 +1,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=samchawl&color=orange)
 
+<a href="https://www.teacheron.com/tutor-profile/20zH?r=20zH" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 300px !important; height: 129px !important"></a>
+
 <br>
 
 ![My Readme Stats](https://github-readme-stats.vercel.app/api?username=samchawla&show_icons=true&theme=tokyonight)
