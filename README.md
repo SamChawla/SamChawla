@@ -1,12 +1,12 @@
-![Visitors](https://komarev.com/ghpvc/?username=samchawl&color=orange)
+# Sumit S Chawla ![Visitors](https://komarev.com/ghpvc/?username=samchawl&color=brightgreen)
 
-<br>
+
+<a href="https://www.teacheron.com/tutor-profile/20zH?r=20zH" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 160px !important; height: 68px !important"></a>
 
 ![My Readme Stats](https://github-readme-stats.vercel.app/api?username=samchawla&show_icons=true&theme=tokyonight)
 
-<br>
-
 ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=samchawla&layout=compact&theme=tokyonight&color=blueviolet)
+
 
 <!--
 **SamChawla/SamChawla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
