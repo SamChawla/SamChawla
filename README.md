@@ -1,7 +1,6 @@
 # Sumit S Chawla ![Visitors](https://komarev.com/ghpvc/?username=samchawl&color=brightgreen)
 
-
-<a href="https://www.teacheron.com/tutor-profile/20zH?r=20zH" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 160px !important; height: 68px !important"></a>
+<a href="https://www.teacheron.com/tutor-profile/20zH?r=20zH" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 120px !important; height: 52px !important"></a>
 
 ![My Readme Stats](https://github-readme-stats.vercel.app/api?username=samchawla&show_icons=true&theme=tokyonight)
 
