@@ -1,11 +1,15 @@
-# Sumit S Chawla ![Visitors](https://komarev.com/ghpvc/?username=samchawl&color=brightgreen)
+# Sumit S Chawla
 
 <a href="https://www.teacheron.com/tutor-profile/20zH?r=20zH" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 120px !important; height: 52px !important"></a>
 
-![My Readme Stats](https://github-readme-stats.vercel.app/api?username=samchawla&show_icons=true&theme=tokyonight)
+![Visitors](https://komarev.com/ghpvc/?username=samchawl&color=brightgreen)
+[![Linkedin: Sumit S Chawla](https://img.shields.io/badge/-Sumit%20S%20Chawla-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumit-s-chawla/)](https://www.linkedin.com/in/sumit-s-chawla/)
 
-![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=samchawla&layout=compact&theme=tokyonight&color=blueviolet)
+![Sumit's Stats](https://github-readme-stats.vercel.app/api?username=samchawla&show_icons=true&theme=calm)
 
+![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SamChawla&theme=calm)
+
+![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=samchawla&theme=calm&color=blueviolet)
 
 <!--
 **SamChawla/SamChawla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
