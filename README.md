@@ -1,23 +1,29 @@
-## Sumit S Chawla | Engineer | Educator | Learner
+# Sumit S Chawla | Engineer ⚡ | Educator 📚 | Learner 🌱
 
----
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SamChawla/count.svg" />
+</p>
 
-<img alt="Sam Readme Top Languages" align="right" width="45%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=samchawla&theme=calm&layout=compact'/>
+<p align="center"> 
+  <img alt="Sam Readme Top Languages" align="center" width="75%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=samchawla&theme=calm&layout=compact'/>
+</p>
 
-<a href="https://www.teacheron.com/tutor-profile/20zH?r=20zH" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 120px !important; height: 52px !important"></a>
-
-![Visitors](https://komarev.com/ghpvc/?username=samchawl&color=brightgreen)
-
-[![Linkedin: Sumit S Chawla](https://img.shields.io/badge/-Sumit%20S%20Chawla-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumit-s-chawla/)](https://www.linkedin.com/in/sumit-s-chawla/)
-<br><br><br><br>
 <hr/>
 
-<img alt="Sam Readme Stats" align="left" width="47%" src='https://github-readme-stats.vercel.app/api?username=samchawla&show_icons=true&theme=calm'/>
+<p>
+  <img alt="Sam Readme Stats" align="left" width="47%" height="150px" src='https://github-readme-stats.vercel.app/api?username=samchawla&show_icons=true&theme=calm'/>
+  <img alt="Sam Readme Streak Stats" align="right" width="47%" height="140px" src='https://github-readme-streak-stats.herokuapp.com/?user=SamChawla&theme=calm'/>
+</p>
 
-<img alt="Sam Readme Streak Stats" align="right" width="47%" src='https://github-readme-streak-stats.herokuapp.com/?user=SamChawla&theme=calm'/>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
-
+<p>
+  📫 How to reach me: <br><br>
+  - <a href="https://www.linkedin.com/in/sumit-s-chawla/">
+    <img alt="Linkedin: Sumit S Chawla" src="https://img.shields.io/badge/-Sumit%20S%20Chawla-blue?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+</p>
 
 <!--
 **SamChawla/SamChawla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
