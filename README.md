@@ -16,7 +16,7 @@
   <img alt="Sam Readme Streak Stats" align="right" width="47%" height="140px" src='https://github-readme-streak-stats.herokuapp.com/?user=SamChawla&theme=calm'/>
 </p>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <hr/>
 <br>
 <p>
