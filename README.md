@@ -13,7 +13,7 @@
 
 <p>
   <img alt="Sam Readme Stats" align="left" width="47%" height="150px" src='https://github-readme-stats.vercel.app/api?username=samchawla&show_icons=true&theme=calm'/>
-  <img alt="Sam Readme Streak Stats" align="right" width="47%" height="140px" src='https://github-readme-streak-stats.herokuapp.com/?user=SamChawla&theme=calm'/>
+  <img alt="Sam Readme Streak Stats" align="right" width="47%" height="140px" src='https://github-readme-streak-stats.herokuapp.com/?user=SamChawla&theme=ocean-gradient'/>
 </p>
 
 <br><br><br><br><br><br><br>
