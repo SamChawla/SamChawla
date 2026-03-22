@@ -56,11 +56,11 @@ I'm a software engineer and educator based in Indore, MP, passionate about build
 ### GitHub Stats
 
 <p align="center">
-  <img alt="Top Languages" width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samchawla&theme=calm&layout=compact"/>
+  <img alt="Top Languages" width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samchawla&theme=tokyonight&layout=compact"/>
 </p>
 
 <p align="center">
-  <img alt="GitHub Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=samchawla&show_icons=true&theme=calm"/>
+  <img alt="GitHub Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=samchawla&show_icons=true&theme=tokyonight"/>
   &nbsp;
   <img alt="GitHub Streak" width="47%" src="https://streak-stats.demolab.com/?user=SamChawla&theme=ocean-gradient"/>
 </p>
