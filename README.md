@@ -62,7 +62,7 @@ I'm a software engineer and educator based in Indore, MP, passionate about build
 <p align="center">
   <img alt="GitHub Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=samchawla&show_icons=true&theme=calm"/>
   &nbsp;
-  <img alt="GitHub Streak" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamChawla&theme=ocean-gradient"/>
+  <img alt="GitHub Streak" width="47%" src="https://streak-stats.demolab.com/?user=SamChawla&theme=ocean-gradient"/>
 </p>
 
 ---
