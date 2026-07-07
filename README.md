@@ -55,7 +55,7 @@ mindset:   learn in public
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamChawla&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=SamChawla&hide_border=true&theme=tokyonight" alt="streak" />
+<img height="165" src="https://streak-stats.demolab.com/?user=SamChawla&hide_border=true&theme=tokyonight&border_radius=6&card_width=440" alt="streak" />
 
 <br/>
 
