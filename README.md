@@ -1,59 +1,72 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Sumit%20S%20Chawla&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Engineer%20%C2%B7%20Educator%20%C2%B7%20Builder&descAlignY=54&descSize=18" alt="header" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=800&color=7C3AED&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Sumit+S+Chawla+%F0%9F%91%8B;Engineer+%C2%B7+Educator+%C2%B7+Builder;Building+AI+tools+%26+teaching+others" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=800&color=7C3AED&center=true&vCenter=true&width=520&lines=Building+AI+tools+%26+teaching+others;AI+agents+%C2%B7+RAG+pipelines+%C2%B7+chatbots;Learning+in+public+%40+PyData+Indore" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-s-chawla/)
 [![Website](https://img.shields.io/badge/Website-1a1a2e?style=for-the-badge&logo=githubpages&logoColor=white)](https://samchawla.github.io)
-![Profile Views](https://komarev.com/ghpvc/?username=SamChawla&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sam.chawla26@gmail.com)
 
 </div>
 
 ---
 
-### About Me
+### 👋 About Me
 
-Software engineer and educator based in Indore, MP. I build AI-powered tools, contribute to the developer community, and learn in public.
+> Software engineer and educator based in **Indore, MP**. I turn ML prototypes into production tools — and teach others to do the same.
 
-- Organizer at **[PyData Indore](https://indore.pydata.org/)**
-- Building AI agents, RAG pipelines, and chatbots
-- Sharing through talks, blogs, and open source
+```yaml
+role:      Software Engineer · Educator
+building:  AI agents · RAG pipelines · chatbots
+community: Organizer @ PyData Indore
+learning:  agentic workflows · LLM evaluation
+ask me:    Python · GenAI · shipping ML products
+mindset:   learn in public
+```
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,ts,postgres,django,fastapi,flask,docker,git,github&theme=dark" alt="tech stack" />
 
-**AI / ML**
+</div>
+
+<div align="center">
 
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=databricks&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0277BD?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**Frameworks & Tools**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Vibe Coding**
-
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamChawla&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=SamChawla&hide_border=true&theme=tokyonight" alt="streak" />
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamChawla&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" />
+
+</div>
 
 ---
 
 <p align="center">
   <i>Open to collaborations, talks, and interesting problems — let's build something.</i>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
